@@ -1,0 +1,41 @@
+[
+    {
+        "id": "1",
+        "review_url": "https://www.amazon.com/review1",
+        "author_id": "user123",
+        "asin": "B01234ABCDE",
+        "date": "2024-04-01",
+        "verified_purchase": true,
+        "rating": 5,
+        "title": "Excellent product!",
+        "text": "This product exceeded my expectations. Highly recommended.",
+        "helpful": 10,
+        "exists": true
+    },
+    {
+        "id": "2",
+        "review_url": "https://www.amazon.com/review2",
+        "author_id": "user456",
+        "asin": "B01234ABCDE",
+        "date": "2024-04-02",
+        "verified_purchase": true,
+        "rating": 4,
+        "title": "Good product, but could be better",
+        "text": "Overall satisfied, but there are some minor issues that could be improved.",
+        "helpful": 5,
+        "exists": true
+    },
+    {
+        "id": "3",
+        "review_url": "https://www.amazon.com/review3",
+        "author_id": "user789",
+        "asin": "B01234ABCDE",
+        "date": "2024-04-03",
+        "verified_purchase": true,
+        "rating": 2,
+        "title": "Disappointed",
+        "text": "Not what I expected. Poor quality and performance.",
+        "helpful": 2,
+        "exists": true
+    }
+]
